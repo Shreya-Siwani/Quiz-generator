@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Which language is used for AI?",
+    "options": ["Python", "HTML", "CSS", "C"],
+    "answer": "Python"
+  },
+  {
+    "question": "What is 5 + 3?",
+    "options": ["5", "8", "10", "6"],
+    "answer": "8"
+  }
+]
